@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gauravthapa/static/css/main.f33e14ac.css",
+    "main.js": "/gauravthapa/static/js/main.bc13aaad.js",
+    "static/js/453.b3efecc2.chunk.js": "/gauravthapa/static/js/453.b3efecc2.chunk.js",
+    "index.html": "/gauravthapa/index.html",
+    "main.f33e14ac.css.map": "/gauravthapa/static/css/main.f33e14ac.css.map",
+    "main.bc13aaad.js.map": "/gauravthapa/static/js/main.bc13aaad.js.map",
+    "453.b3efecc2.chunk.js.map": "/gauravthapa/static/js/453.b3efecc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f33e14ac.css",
+    "static/js/main.bc13aaad.js"
+  ]
+}
