@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gauravthapa/static/css/main.f33e14ac.css",
-    "main.js": "/gauravthapa/static/js/main.bc13aaad.js",
+    "main.css": "/gauravthapa/static/css/main.051b9e7d.css",
+    "main.js": "/gauravthapa/static/js/main.a5871fc2.js",
     "static/js/453.b3efecc2.chunk.js": "/gauravthapa/static/js/453.b3efecc2.chunk.js",
     "index.html": "/gauravthapa/index.html",
-    "main.f33e14ac.css.map": "/gauravthapa/static/css/main.f33e14ac.css.map",
-    "main.bc13aaad.js.map": "/gauravthapa/static/js/main.bc13aaad.js.map",
+    "main.051b9e7d.css.map": "/gauravthapa/static/css/main.051b9e7d.css.map",
+    "main.a5871fc2.js.map": "/gauravthapa/static/js/main.a5871fc2.js.map",
     "453.b3efecc2.chunk.js.map": "/gauravthapa/static/js/453.b3efecc2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f33e14ac.css",
-    "static/js/main.bc13aaad.js"
+    "static/css/main.051b9e7d.css",
+    "static/js/main.a5871fc2.js"
   ]
 }
