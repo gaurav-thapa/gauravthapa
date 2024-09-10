@@ -94,7 +94,7 @@ export const introData = {
   location: "Pithoragarh, Uttarakhand, India",
   email: "thapagaurav7011@gmail.com",
   phone: "+91 7011516735",
-  image: "IMG_4574.JPG",
+  image: "./IMG_4574.JPG",
   bgimage: "bg wallpaper.png",
 };
 export const educationData = [

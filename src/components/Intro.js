@@ -4,7 +4,7 @@ export default function Intro() {
   const { bgimage, image, name, pronouns, title, location, email, phone } =
     introData;
   return (
-    <div className="bg-white shadow-xl rounded">
+    <div className="bg-white shadow-xl rounded -m-3 sm:m-0">
       <div className="relative pb-12">
         <img
           className="h-48 min-w-full rounded"
@@ -19,7 +19,7 @@ export default function Intro() {
           />
         </div>
       </div>
-      <div className="p-5 flex justify-between items-end">
+      <div className="p-5 flex sm:flex-row flex-col justify-between gap-4 sm:items-end">
         <div>
           <div>
             <span className="text-2xl font-bold">{name}</span>

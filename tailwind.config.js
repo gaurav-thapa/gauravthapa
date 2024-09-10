@@ -4,5 +4,16 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    function ({ addUtilities }) {
+      addUtilities({
+        ".scrollbar-hidden": {
+          "scrollbar-width": "none" /* Firefox */,
+        },
+        ".scrollbar-hidden::-webkit-scrollbar": {
+          display: "none" /* Chrome, Safari */,
+        },
+      });
+    },
+  ],
 };
